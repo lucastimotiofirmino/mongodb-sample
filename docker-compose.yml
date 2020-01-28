@@ -24,7 +24,7 @@ services:
     ports:
       - "27017:27017"
     volumes:
-      - /Users/lucastimotio/Workspace/mongo-db:/data/db
+      - /Users/lucastimotio/Workspace/mongo-db/volume:/data/db
     networks:
       - mongo-compose-network
 
