@@ -15,4 +15,4 @@ Studies on mongo and mongo express.
 ## For docs:
 
 1. [Create database and data structure](https://github.com/lucastimotiofirmino/mongo-db/blob/master/docs/create_database.md)
-2. 
+2. [Import database](https://github.com/lucastimotiofirmino/mongo-db/blob/master/docs/import_database.md)
