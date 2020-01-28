@@ -11,3 +11,8 @@ Studies on mongo and mongo express.
 
 #### To acess the mongo express: 
 [http://localhost:8081/](http://localhost:8081/)
+
+## For docs:
+
+1. [Create database and data structure](https://github.com/lucastimotiofirmino/mongo-db/blob/master/docs/create_database.md)
+2. 
